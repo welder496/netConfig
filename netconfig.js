@@ -5,7 +5,7 @@ module.exports = {
   
   getHost: function(){
     return host;
-  }
+  },
   
   getPort: function(){
     return port;
