@@ -1,0 +1,25 @@
+{
+  "name": "netconfig",
+  "version": "1.0.0",
+  "description": "information about host and port ",
+  "main": "netconfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welder496/netConfig.git"
+  },
+  "keywords": [
+    "host",
+    "port",
+    "network",
+    "net"
+  ],
+  "author": "Welder Mauricio de Souza <welder496@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welder496/netConfig/issues"
+  },
+  "homepage": "https://github.com/welder496/netConfig#readme"
+}
